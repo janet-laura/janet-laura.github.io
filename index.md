@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Janet Laura
 
 You can use the [editor on GitHub](https://github.com/janet-laura/janet-laura.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
